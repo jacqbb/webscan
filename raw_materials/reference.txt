@@ -1,0 +1,88 @@
+
+..
+webrep
+phishing
+malware
+spam?
+tracking scripts
+defacement(by XSS)
+Unwanted Software
+
+
+. background
+50k+ sites hacked daily  (https://hostingfacts.com/internet-facts-stats/)
+10k+ new blacklisted siteds daily 
+85%+ websites include at least one remote JS library. (ad, sns, track, web analytics)
+
+. 
+client side attack:
+- phishing
+- social engineering
+- sniffer, even https
+
+server side:
+- application, system bugs
+- brute force password
+- vulnerability
+- poor security policies
+
+
+. consequent impacts
+- add malicious URL to legal website
+- defeat legal web page with malicious codes
+- steal personal privacy, business info, virtual asset
+- expose password, bank account, securities trading account, credit card account
+- server/work station controlled by hackers
+- to help money laundering
+- send spam emails
+- distribute rogue softwares
+- launch DoS attacks
+
+. use cases
+Client side web access hardening.
+Mobile application hardening.
+url links status report for content hosting providers(blog, wiki, message board, SNS)
+search result links status for search engine providers.
+firewall, router Url filtering.
+service to those cilent who needs for url health check.
+
+. features
+
+
+. advantages
+high performance
+large scope
+high accuracy, low FP
+
+. 
+malicious feeds real time update
+multiple blacklist sources, include all lists generated from Avast ThreatLab VPS
+
+---------------------------
+reference
+waf
+https://wenku.baidu.com/view/ddc8e5fc18e8b8f67c1cfad6195f312b3169eb37.html
+
+spyware, backdoor
+https://us.norton.com/internetsecurity-how-to-catch-spyware-before-it-snags-you.html
+phishing
+https://us.norton.com/internetsecurity-online-scams-how-to-protect-against-phishing-scams.html
+
+Client-side security policies for the web
+https://pdfs.semanticscholar.org/presentation/f146/33e11e23cc8a4f7ca9e73a42fbca9191b350.pdf
+
+https://wenku.baidu.com/view/c4200c5d312b3169a451a4fd.html
+
+virus total
+https://www.virustotal.com/zh-cn/
+
+statistic
+https://www.webarxsecurity.com/website-hacking-statistics-2018-february/
+https://hostingfacts.com/internet-facts-stats/
+https://www.owasp.org/
+
+Online security Glossary 
+https://safeweb.norton.com/safety
+
+Unwanted Software Policy
+https://www.google.com/about/unwanted-software-policy.html

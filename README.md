@@ -3,6 +3,7 @@ To show a roadmap of how to prepare a presale PPT
 
 # Progress
 26/9    create a project for urlinfo pre-sale
+28/9    add PPT template, improve agenda
 
 
 # Urlinfo Presale - Roadmap

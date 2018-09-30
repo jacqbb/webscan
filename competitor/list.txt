@@ -1,3 +1,28 @@
+
+-------------
+
+
 1. norton - safeweb 
 2. tendmicro
 3. comodo - webinspector
+4. bitdefender
+5. cyren
+6. ESET
+7. virusDesk - kaspersky
+
+------------
+
+service/product website: 
+
+result url category:
+url detail information:
+service performance:
+security rating:
+localization feeds:
+for domain or url:
+privide online checking:
+
+service positioning
+cooperation mode
+free/commercial
+partners
