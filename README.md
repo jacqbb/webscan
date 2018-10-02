@@ -7,8 +7,10 @@ To show a roadmap of how to prepare a presale PPT
 30/9    add more text materials, collected competitors information   
 02/10   final PPT outline, start to work on PPT   
 
+# Raw thought roadmap
+All in [reference file](../blob/master/raw_materials/reference.txt)
 
-# Urlinfo Presale - Roadmap
+# Urlinfo Presale PPT - production roadmap
 
 1 day:
 * Create a github project for Urlinfo presale project;
