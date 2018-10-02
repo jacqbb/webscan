@@ -53,15 +53,16 @@ use in sandbox for ongoing threatened behavior detection.
 service to those cilent who needs for url health check.
 
 . features
-HTTP based cloud service, JSON/GPB API
 check URLs or IP addresses to determine if they are harmful, typo, tracking or unwanted spam.
-check domain reputation based on users voting
+check domain reputation based on massive Avast users voting
 Identify malicious, phishing, and fraudulent websites in real-time.
+cloud service frontend for Avast backend virus lab service 
+provide simple HTTP/HTTPS web API for integration, support JSON/GPB protocol.
 
 
 
 . advantages
-service distributed on multiple datacenter, service distributed in 7 zone and 38 dc center.
+service distributed on multiple datacenters, service distributed in 7 zone and 38 dc center.
 high performance, low latence, geographical locations optimized
 high accuracy, low FP, data feed local optimizated
 Local OEM support team
@@ -84,6 +85,11 @@ To End user,
 Trust all urls from your service.
 Prevent from potential web-based security issues.
 Webmasters receive notification for their compromised sites so that their visitors stay safer. 
+
+why best?
+- Top technology - AVtest scope
+- Local support team - customer care
+- We value win-win - multiple OEM licensing mode.
 
 ---------------------------
 reference
