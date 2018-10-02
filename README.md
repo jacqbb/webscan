@@ -4,6 +4,8 @@ To show a roadmap of how to prepare a presale PPT
 # Progress
 26/9    create a project for urlinfo pre-sale
 28/9    add PPT template, improve agenda
+30/9    add more text materials, collected competitors information
+02/10   final PPT outline, start to work on PPT
 
 
 # Urlinfo Presale - Roadmap
