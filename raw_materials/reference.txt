@@ -15,20 +15,23 @@ Unwanted Software
 85%+ websites include at least one remote JS library. (ad, sns, track, web analytics)
 
 . 
-client side attack:
+web based client side attack:
 - phishing
 - social engineering
 - sniffer, even https
+- browser vulnerability
+- etc..
 
 server side:
 - application, system bugs
 - brute force password
-- vulnerability
+- CSRF
+- web applications vulnerability
 - poor security policies
 
 
 . consequent impacts
-- add malicious URL to legal website
+- add malicious URL to legitimate websites
 - defeat legal web page with malicious codes
 - steal personal privacy, business info, virtual asset
 - expose password, bank account, securities trading account, credit card account
@@ -39,24 +42,48 @@ server side:
 - launch DoS attacks
 
 . use cases
-Client side web access hardening.
+Protects Endpoints, Network Appliances, and Cloud Infrastructure, such as:
+Client side web access hardening, 
 Mobile application hardening.
 url links status report for content hosting providers(blog, wiki, message board, SNS)
 search result links status for search engine providers.
-firewall, router Url filtering.
+for firewall, router Url filtering.
+to integrate/OEM as a cloud service of SaaS provider.
+use in sandbox for ongoing threatened behavior detection.
 service to those cilent who needs for url health check.
 
 . features
+HTTP based cloud service, JSON/GPB API
+check URLs or IP addresses to determine if they are harmful, typo, tracking or unwanted spam.
+check domain reputation based on users voting
+Identify malicious, phishing, and fraudulent websites in real-time.
+
 
 
 . advantages
-high performance
-large scope
-high accuracy, low FP
+service distributed on multiple datacenter, service distributed in 7 zone and 38 dc center.
+high performance, low latence, geographical locations optimized
+high accuracy, low FP, data feed local optimizated
+Local OEM support team
+malicious feeds real time update, in second level.
+multiple blacklist sources, includes all lists generated from Avast ThreatLab VPS
+1 million bad URLs (only safebrowsing, 800k ph, 200k mal)
 
-. 
-malicious feeds real time update
-multiple blacklist sources, include all lists generated from Avast ThreatLab VPS
+
+Benefit
+
+To OEM partner,
+Integrating Avast Urlinfo service into your product to generate revenue.
+Create incremental revenue as an optional service to your clients.
+Differentiates product or service from competitors.
+More time to focus on your own business targets.
+harden your devices/applications/services, to keep good reputation for your brand.
+Identifies all harmful sites, notifies user or administrator, stay away from online threats.
+
+To End user,
+Trust all urls from your service.
+Prevent from potential web-based security issues.
+Webmasters receive notification for their compromised sites so that their visitors stay safer. 
 
 ---------------------------
 reference
