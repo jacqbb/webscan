@@ -8,7 +8,7 @@ To show a roadmap of how to prepare a presale PPT
 02/10   final PPT outline, start to work on PPT   
 
 # Raw thought roadmap
-All in [reference file](../blob/master/raw_materials/reference.txt)
+All in [reference file](../master/raw_materials/reference.txt)
 
 # Urlinfo Presale PPT - production roadmap
 
