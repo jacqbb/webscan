@@ -6,6 +6,7 @@ To show a roadmap of how to prepare a presale PPT
 28/9    add PPT template, improve agenda   
 30/9    add more text materials, collected competitors information   
 02/10   final PPT outline, start to work on PPT   
+05/10   finish draft PPT
 
 # Raw thought roadmap
 All in [reference file](../master/raw_materials/reference.txt)
