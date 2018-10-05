@@ -63,8 +63,8 @@ provide simple HTTP/HTTPS web API for integration, support JSON/GPB protocol.
 
 . advantages
 service distributed on multiple datacenters, service distributed in 7 zone and 38 dc center.
-high performance, low latence, geographical locations optimized
-high accuracy, low FP, data feed local optimizated
+high performance, low latence, geographical locations optimized.
+high accuracy, low FP, the best data feed from local partners.
 Local OEM support team
 malicious feeds real time update, in second level.
 multiple blacklist sources, includes all lists generated from Avast ThreatLab VPS
