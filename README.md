@@ -6,8 +6,8 @@ To show a roadmap of how to prepare a presale PPT
 28/9    add PPT template, improve agenda   
 30/9    add more text materials, collected competitors information   
 02/10   final PPT outline, start to work on PPT   
-05/10   finish draft PPT
-08/10   final the PPT, use for full presentation
+05/10   finish draft PPT    
+08/10   final the PPT, use for full presentation    
 09/10   As full presentation need many minutes, so make a 5 mins summarise, and make a video.
 
 # Raw thought roadmap
